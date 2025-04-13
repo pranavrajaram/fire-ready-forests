@@ -23,5 +23,5 @@ Ensure the following 5 files are in the `data/` directory
 - `TLS_treelist.csv`
 
 ### 3. Running the Notebook
-Open `sprint4_Dream-Team!.ipynb` in Jupyter and run all cells from top to bottom.
+Open `sprint4_Dream-Team.ipynb` in Jupyter and run all cells from top to bottom.
 
