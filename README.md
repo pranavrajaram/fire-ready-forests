@@ -11,7 +11,7 @@ This project uses Machine Learning to predict Plant Functional Type (PFT), Genus
 ## Instructions
 
 ### 1. Setup
-Install required dependencies: `pip install -r requirements.txt`
+Clone this repo and install required dependencies: `pip install -r requirements.txt`
 
 
 ### 2. Data Requirements
@@ -23,5 +23,5 @@ Ensure the following 5 files are in the `data/` directory
 - `TLS_treelist.csv`
 
 ### 3. Running the Notebook
-Open sprint4_Dream-Team!.ipynb in Jupyter and run all cells from top to bottom.
+Open `sprint4_Dream-Team!.ipynb` in Jupyter and run all cells from top to bottom.
 
